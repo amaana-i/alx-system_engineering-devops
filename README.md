@@ -1,1 +1,1 @@
-Bash command
+This repo contains answers to shell task
